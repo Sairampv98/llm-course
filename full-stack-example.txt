@@ -1,1 +1,3 @@
 https://www.infoworld.com/article/3714603/full-stack-web-development-with-htmx-and-bun-part-1-elysia-and-mongodb.html
+
+https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d
