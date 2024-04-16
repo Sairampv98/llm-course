@@ -1,1 +1,3 @@
 https://dev.to/glasskube/the-guide-to-git-i-never-had-1450
+
+https://hackaday.com/2024/04/12/git-good-by-playing-a-gamified-version-of-git/
