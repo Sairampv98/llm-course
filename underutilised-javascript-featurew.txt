@@ -1,1 +1,3 @@
 https://thenewstack.io/top-5-underutilized-javascript-features/
+
+https://dev.to/symplymuslimah12/understanding-use-strict-in-javascript-4ik3
