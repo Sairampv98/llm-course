@@ -1,0 +1,1 @@
+https://thenewstack.io/python-tutorial-use-tensorflow-to-generate-predictive-text/
