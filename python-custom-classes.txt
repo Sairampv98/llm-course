@@ -1,0 +1,1 @@
+https://towardsdatascience.com/organizing-python-functions-in-utility-classes-ec76eb82f895
