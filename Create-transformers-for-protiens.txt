@@ -1,0 +1,1 @@
+https://towardsdatascience.com/building-transformer-models-for-proteins-from-scratch-60884eab5cc8
